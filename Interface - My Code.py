@@ -1,7 +1,4 @@
-#!/usr/bin/python2.7
-#
-# Interface for the assignement
-#
+
 import sys
 import psycopg2
 import timeit
